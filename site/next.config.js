@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Kode\'s Registry',
     description: 'The my Kasm Workspaces.',
-    icon: 'https://w7.pngwing.com/pngs/958/712/png-transparent-check-mark-computer-icons-symbol-tick-miscellaneous-trademark-payment-thumbnail.png',
+    icon: 'https://w7.pngwing.com/pngs/966/803/png-transparent-check-mark-tick-green-tick-mark-angle-leaf-text-thumbnail.png',
     listUrl: 'https://4e4eh.github.io/kasm-registry/',
     contactUrl: 'https://github.com/4e4eh/kasm-registry/issues',
   },
