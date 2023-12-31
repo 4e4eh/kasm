@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Kode\'s Registry',
     description: 'The my Kasm Workspaces.',
-    icon: 'https://github.com/4e4eh/kasm-registry/pngwing.png',
+    icon: 'https://github.com/4e4eh/kasm-registry/icon.png',
     listUrl: 'https://4e4eh.github.io/kasm-registry/',
     contactUrl: 'https://github.com/4e4eh/kasm-registry/issues',
   },
