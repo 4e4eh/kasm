@@ -1,0 +1,19 @@
+{
+    "description": "Sublime Text is a sophisticated text editor for code, markup and prose.",
+    "docker_registry": "https://docker.radaev.su",
+    "name": "docker.radaev.su/sergey/docker/sublime-text:v1",
+    "image_src": "sublime-text.png",
+    "categories": [
+      "Development"
+    ],
+    "friendly_name": "Sublime Text",
+    "architecture": [
+      "amd64",
+      "arm64"
+    ],
+    "compatibility": [
+      "1.13.x",
+      "1.14.x"
+    ],
+    "uncompressed_size_mb": 2170
+  }
