@@ -1,7 +1,7 @@
 {
     "description": "Beautiful monitoring tool.",
     "docker_registry": "https://docker.radaev.su",
-    "name": "docker.radaev.su/sergey/docker/uptime-kuma:v1",
+    "name": "docker.radaev.su/sergey/docker/uptime-kuma:v2",
     "image_src": "uptime-kuma.png",
     "categories": [
       "Development"
